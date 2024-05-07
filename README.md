@@ -239,3 +239,4 @@ This repository is published under the [MIT][license] license.
 [shopify-analytics]: https://shopify.dev/docs/custom-storefronts/hydrogen/analytics
 [preview-kit]: https://github.com/sanity-io/preview-kit
 [hydrogen-sanity]: https://github.com/sanity-io/hydrogen-sanity
+# srh-sanity-v2
